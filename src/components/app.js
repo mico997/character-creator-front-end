@@ -7,6 +7,8 @@ export default class App extends Component {
     return (
       <div className='app'>
         <Character/>
+        <Character/>
+        <Character/>
       </div>
     );
   }
