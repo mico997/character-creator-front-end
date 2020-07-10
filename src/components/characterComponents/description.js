@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Description(props) {
+export default function description(props) {
    return (
        <div className='description-wrapper'>
            <h4>{props.name}</h4>
